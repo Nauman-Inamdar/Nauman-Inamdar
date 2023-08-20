@@ -29,8 +29,7 @@
 </div>
 
 ###
-<img src="https://github.com/Naumanjr11/Naumanjr11/assets/122895006/238135d5-deb1-4e17-bc0e-6b7d36cdb734
-" align="right" height="150" >
+<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" align="right" height="150"  >
 ###
 
 <div align="left">
