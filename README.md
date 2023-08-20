@@ -29,8 +29,8 @@
 </div>
 
 ###
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
-
+<img src="https://github.com/Naumanjr11/Naumanjr11/assets/122895006/238135d5-deb1-4e17-bc0e-6b7d36cdb734
+" align="right" height="150" >
 ###
 
 <div align="left">
