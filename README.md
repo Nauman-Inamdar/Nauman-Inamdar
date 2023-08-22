@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nauman Inamdar</h1>
-<img src="https://komarev.com/ghpvc/?username=Naumanjr11&label=Profile%20views&color=0e75b6&style=plastic" alt="naumanjr11">
-<img src="https://img.shields.io/github/followers/Naumanjr11?style=plastic" alt="Naumanjr11">
-<a href="https://wakatime.com/@72dc62fa-0da0-4c2c-9db6-3faa52beaac8"><img src="https://wakatime.com/badge/user/72dc62fa-0da0-4c2c-9db6-3faa52beaac8.svg"> </a>
+<h1 align="center">Hi 👋, I'm Nauman Ina</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naumanjr11" alt="naumanjr11" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=Naumanjr11&label=Profile%20views&color=0e75b6&style=plastic" alt="naumanjr11">
+<!-- <img src="https://img.shields.io/github/followers/Naumanjr11?style=plastic" alt="Naumanjr11"> -->
+<a href="https://wakatime.com/@72dc62fa-0da0-4c2c-9db6-3faa52beaac8"><img src="https://wakatime.com/badge/user/72dc62fa-0da0-4c2c-9db6-3faa52beaac8.svg"> </a>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
