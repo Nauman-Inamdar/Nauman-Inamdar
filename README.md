@@ -1,9 +1,17 @@
-<h1 align="center">Hi 👋, I'm Nauman Ina</h1>
+<h1 align="center">Hi 👋, I'm Nauman Inamdar</h1>
+<!-- this is the trophy section -->
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naumanjr11" alt="naumanjr11" /></a> </p>
-<img src="https://komarev.com/ghpvc/?username=Naumanjr11&label=Profile%20views&color=0e75b6&style=plastic" alt="naumanjr11">
-<!-- <img src="https://img.shields.io/github/followers/Naumanjr11?style=plastic" alt="Naumanjr11"> -->
+<!-- trophy section ends -->
+
+
+
 <a href="https://wakatime.com/@72dc62fa-0da0-4c2c-9db6-3faa52beaac8"><img src="https://wakatime.com/badge/user/72dc62fa-0da0-4c2c-9db6-3faa52beaac8.svg"> </a>
+<!-- Ends here -->
+
+
+<!-- shields here-->
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -14,10 +22,10 @@
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />  
   <img src="https://img.shields.io/static/v1?  message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-</div>
-<p align="left">
-</p>    
+</div>  
+<!-- connect ends here -->
 
+<!-- connect with me-->
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" align="right" height="200">
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
