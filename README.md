@@ -81,15 +81,15 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naumanjr11&show_icons=true&locale=en&layout=compact" alt="naumanjr11" /></p>
 
 <a href="https://wakatime.com/@Naumaninamdar"><img  src="https://github-readme-stats.vercel.app/api/wakatime?username=Naumaninamdar&layout=compact" /></a>
-<hr>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Naumanjr11&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naumanjr11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
+<hr>
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/debee0l-eca2c69e-8c11-421b-905e-29841ab8bbf7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGViZWUwbC1lY2EyYzY5ZS04YzExLTQyMWItOTA1ZS0yOTg0MWFiOGJiZjcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bLss-D_4-kWiv5xyurUsivfJHkl5ukWbqaUpjMD-PyQ" align="right" height="270">
 <div align="center">
   <img src="https://profile-counter.glitch.me/Naumanjr11/count.svg?"  />
+  <h1>_THANKS FOR VISITING_</h1>
 </div>
-<h1>_THANKS FOR VISITING_</h1>
+
